@@ -1,0 +1,7 @@
+.idea
+.vscode
+
+.ipynb_checkpoints
+workspace
+dask-worker-space
+
