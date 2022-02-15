@@ -3,7 +3,7 @@
 ## Cours
 
 - 02/02 [Slides](https://docs.google.com/presentation/d/1aIFip6-Sfb8GIl6JriaMBQprG19iEyLc6Zm7QESnMN4/edit?usp=sharing)
-- 14/02 [Slides](...)
+- 14/02 Slides (WIP)
 
 ## BE  
 
@@ -18,14 +18,9 @@ Vous devriez avoir un compte GCP créé avec des crédits. Si ce n'est pas le ca
 - Attendez la création de la VM
 - Une fois celle-ci créée, cliquez sur "Open Jupyterlab"
 
+**Création d'une VM** : [video](https://storage.googleapis.com/fchouteau-storage/public/shapre_project.mp4)
 
-**Création d'une VM**
-
-![video](https://storage.googleapis.com/fchouteau-storage/public/shapre_project.mp4)
-
-**Partage d'un projet GCP entre plusieurs personnes**
-
-![video](https://storage.googleapis.com/fchouteau-storage/public/shapre_project.mp4)
+**Partage d'un projet GCP entre plusieurs personnes** : [video](https://storage.googleapis.com/fchouteau-storage/public/shapre_project.mp4)
 
 ### 1 - Introduction à dask, xarray
 
@@ -36,17 +31,6 @@ Effectuez les notebooks suivants dans l'ordre:
 - 2_dask_xarray_satellite_imagery.ipynb
 - 3_visualisation_series_temp.ipynb
 
-### 2 - Introduction à docker (optionnel)
+### 2 (optionnel) - Introduction à docker
 
-#### Une très brève introduction à docker en tant qu'utilisateur
-
-
-
-#### Pour en savoir plus
-
-Vous pouvez suivre les ressources suivantes (cours donné aux SDD) si vous voulez plus d'informations sur docker
-
-- [Cours](https://supaerodatascience.github.io/OBD/slides/1_4_containers.html)
-- [TP Docker](https://supaerodatascience.github.io/OBD/1_3_docker_tp.html)
-- [BE GCP & Docker](https://supaerodatascience.github.io/OBD/1_4_be.html)
-- [BE Déployer un modèle en production](https://supaerodatascience.github.io/OBD/1_5_deployment_tp.html)
+Suivez `4_docker.md`
