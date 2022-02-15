@@ -18,9 +18,13 @@ Vous devriez avoir un compte GCP créé avec des crédits. Si ce n'est pas le ca
 - Attendez la création de la VM
 - Une fois celle-ci créée, cliquez sur "Open Jupyterlab"
 
-**Création d'une VM** : [video](https://storage.googleapis.com/fchouteau-storage/public/shapre_project.mp4)
+**Création d'une VM** : [video](https://storage.googleapis.com/fchouteau-storage/public/setup_vm.mp4)
 
-**Partage d'un projet GCP entre plusieurs personnes** : [video](https://storage.googleapis.com/fchouteau-storage/public/shapre_project.mp4)
+**Partage d'un projet GCP entre plusieurs personnes** : [video](https://storage.googleapis.com/fchouteau-storage/public/share_project.mp4)
+
+Ensuite, dans un terminal :
+
+`git clone https://github.com/fchouteau/isae-otsu`
 
 ### 1 - Introduction à dask, xarray
 
