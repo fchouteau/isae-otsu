@@ -28,6 +28,8 @@ Ensuite, dans un terminal :
 
 `git clone https://github.com/fchouteau/isae-otsu`
 
+Le contenu de ce git est maintenant disponible dans le dossier `isae-otsu`
+
 ### Introduction à dask, xarray
 
 Pour avoir plus d'informations sur dask, voici le [slidedeck d'introduction](https://docs.google.com/presentation/d/e/2PACX-1vSTH2kAR0DCR0nw8pFBe5kuYbOk3inZ9cQfZbzOIRjyzQoVaOoMfI2JONGBz-qsvG_P6g050ddHxSXT/pub?start=false&loop=false&delayms=60000#slide=id.p)

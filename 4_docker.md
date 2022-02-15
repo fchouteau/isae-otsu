@@ -74,13 +74,13 @@ A propos des ports :
 > 
 > Example : 80 is HTTP, 443 is HTTPS, 22 is SSH. Usually jupyter uses 8888
 
-Votre application est maintenant lancée. Afin de vous y connecter, vous pouvez récupérer l'adresse ip publique de votre machine (via l'interface google cloud) et lancer un navigateur web et vous connnecter à celle ci: http://{ip-de-votre-machine}:8000
+Votre application est maintenant lancée. Afin de vous y connecter, vous pouvez récupérer l'adresse ip publique de votre machine (via l'interface google cloud en allant dans l'onglet "instance de VM") et lancer un navigateur web et vous connnecter à celle ci: http://{ip-de-votre-machine}:8000
 
 Vous devriez ouvrir une page web pointant vers un globe terrestre.
 
 Afin de visualiser une image, il vous faut la renseigner graĉe au chemin vers son fichier, par exemple une image que nous venons de télécharger.
 
-```http://{ip-de-votre-machine}:8000/?filename=/home/jupyter/data/IMG_PHR1A_PMS_201504131053028_8bits.tif```
+```http://{ip-de-votre-machine}:8000/?filename=/home/jupyter/isae-otsu/data/IMG_PHR1A_PMS_201504131053028_8bits.tif```
 
 Normalement, vous devriez voir votre image satellite s'afficher !
 
