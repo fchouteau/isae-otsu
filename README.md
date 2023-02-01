@@ -10,12 +10,16 @@
 
 Nous allons utiliser [github codespaces](https://github.com/features/codespaces) pour ce TP
 
+![img.png](_teacher/static/codespaces.png)
+
 - Lisez la documentation pour comprendre ce qu'est le Codespace
 - Créez un compte github
 - Lancez un codespace depuis ce repository
 - Vous devriez voir apparaître un visual studio code dans votre navigateur web
 - Attendez la fin de l'installation
-- Lancez `jupyterlab`
+- Lancez la commande `export LOCALTILESERVER_CLIENT_PREFIX='proxy/{port}'` dans un terminal
+- Lancez `jupyterlab` dans un terminal, puis copiez le token qui s'affiche
+- Ouvrez le jupyterlab en vous rendant dans "ports" puis en copiant l'URL donnée
 - Allez dans `2_hands_on` et parcourez les notebooks
 
 ## BE 
