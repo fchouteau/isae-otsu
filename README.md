@@ -18,7 +18,7 @@ Nous allons utiliser [github codespaces](https://github.com/features/codespaces)
 - Vous devriez voir apparaître un visual studio code dans votre navigateur web
 - Attendez la fin de l'installation
 - Lancez la commande `export LOCALTILESERVER_CLIENT_PREFIX='proxy/{port}'` dans un terminal
-- Lancez `jupyterlab` dans un terminal, puis copiez le token qui s'affiche
+- Lancez `jupyter lab` dans un terminal, puis copiez le token qui s'affiche
 - Ouvrez le jupyterlab en vous rendant dans "ports" puis en copiant l'URL donnée
 - Allez dans `2_hands_on` et parcourez les notebooks
 
