@@ -1,11 +1,22 @@
 # ISAE-OTSU EO Class
 
-## Cours
+## Cours + TP
 
-- 02/02 [Slides](https://docs.google.com/presentation/d/1aIFip6-Sfb8GIl6JriaMBQprG19iEyLc6Zm7QESnMN4/edit?usp=sharing)
-- 14/02 Slides (WIP)
+### Cours
 
-## BE  
+[Slides](https://docs.google.com/presentation/d/1N54HRcXiMXJWksFLkt6moXJtLa8SI8SOkpHuEMJlVcY/edit?usp=sharing)
+
+### Mise en place
+
+Nous allons utiliser [github codespaces](https://github.com/features/codespaces) pour ce TP
+
+## BE 
+
+**(à mettre à jour)** 
+
+### Introduction
+
+Introduction au calcul distribué et à Dask
 
 ### Mise en place
 
