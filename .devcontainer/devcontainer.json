@@ -4,8 +4,11 @@
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "python3 -m pip install --find-links=https://girder.github.io/large_image_wheels --no-cache GDAL && python3 -m pip install -r requirements.txt && export LOCALTILESERVER_CLIENT_PREFIX='proxy/{port}'",
+  "updateContentCommand": "conda install -y python-graphviz && python3 -m pip install --find-links=https://girder.github.io/large_image_wheels --no-cache GDAL && python3 -m pip install -r requirements.txt",
   "postCreateCommand": "",
+  "containerEnv": {
+    "LOCALTILESERVER_CLIENT_PREFIX":"proxy/{port}"
+  },
   "customizations": {
     "codespaces": {
       "openFiles": []

@@ -1,3 +1,4 @@
+bokeh<3
 dask[distributed]
 folium
 geogif
@@ -7,10 +8,12 @@ geopandas
 graphviz
 ipyleaflet
 ipywidgets==7.7.1
+jupyter-server-proxy
 localtileserver
 matplotlib
 numpy
 pandas
+pooch
 pystac_client
 rasterio
 rasterio
@@ -20,4 +23,3 @@ scikit-image
 shapely
 stackstac[viz]
 tqdm
-jupyter-server-proxy
