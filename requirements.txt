@@ -1,5 +1,6 @@
 bokeh<3
 dask[distributed]
+dask-image
 folium
 geogif
 geojson
