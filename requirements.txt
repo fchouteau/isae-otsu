@@ -1,6 +1,6 @@
 bokeh<3
-dask[distributed]
 dask-image
+dask[distributed]
 folium
 geogif
 geojson
@@ -20,6 +20,7 @@ rasterio
 rasterio
 rich
 rioxarray
+s2cloudless
 scikit-image
 shapely
 stackstac[viz]
